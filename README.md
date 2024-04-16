@@ -22,5 +22,5 @@ $k$ - коэффициент, зависящий от обсерватории �
 
 1. [Импорт библиотек подготовка данных](https://github.com/artystyle/wolf_sunspot/blob/master/wolf.ipynb#1)
 2. [Преобразование данных](https://github.com/artystyle/wolf_sunspot/blob/master/wolf.ipynb#2)
-3. [Модель ARIMA](](https://github.com/artystyle/wolf_sunspot/blob/master/wolf.ipynb3)
+3. [Модель ARIMA](https://github.com/artystyle/wolf_sunspot/blob/master/wolf.ipynb3)
    
