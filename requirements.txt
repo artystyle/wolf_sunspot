@@ -1,0 +1,7 @@
+numpy
+pandas
+plotl
+scikit-learn
+pmdarima
+#etna
+seaborn
